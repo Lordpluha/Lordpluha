@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lordpluha
 - 👀 I’m interested in WebDev
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning JavaScript
 - 📫 How to reach me Tesluakevlad@gmail.com
 
 <!---

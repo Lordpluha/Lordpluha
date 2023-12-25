@@ -42,8 +42,6 @@
 
 </td><td valign="top" width="33%">
 
-
-
 ### Backend  
 <div align="center">  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
@@ -61,8 +59,6 @@
 <a href="https://nestjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="25" /></a>  
 <a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="25" /></a>  
 </div>  
-
-
 
 ### Other  
 <div align="center">  
@@ -91,15 +87,9 @@
 
 </td></tr></table>  
 
-<br/>  
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=lordpluha&&style=flat-square" align="center" />
 </div>  
-  
-
-<br/>  
-
 
 ## Connect with me  
 <div align="center">
@@ -131,20 +121,11 @@
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
-<br/>  
-
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=lordpluha&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lordpluha&hide_border=true&layout=compact" align="center" /></div>  
 
-<br/>  
-
+## What i`m listening?
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=54kqtrcjhg6xg2bb5q5xy720l&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true" /></div>
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>

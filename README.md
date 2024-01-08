@@ -1,10 +1,10 @@
 # <h1 align="center">I'm Vladyslav, a front-end developer 👨‍💻 learning IT since 2017 🚀</h1>  
   
 
-- 🔭 I’m currently working on [Nova Developers Co](https://github.com/NovaDevelopersCo)  
+- 🔭 I’m currently working in [Nova Developers Co](https://github.com/NovaDevelopersCo)  
   
 
-- 🌱 I’m currently learning Next, Nest and Redux  
+- 🌱 I’m currently improving my Next, Nest and Redux  
   
 
 <br/>  

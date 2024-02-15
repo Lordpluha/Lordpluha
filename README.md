@@ -4,7 +4,7 @@
 - 🔭 I’m currently working in [Nova Developers Co](https://github.com/NovaDevelopersCo)  
   
 
-- 🌱 I’m currently improving my Next, Nest and Redux  
+- 🌱 I’m currently improving my Next, Nest and Redux, learning React Native
   
 
 <br/>  

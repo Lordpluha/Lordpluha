@@ -4,7 +4,7 @@
 - 🔭 I’m currently working in GG Chest
   
 
-- 🌱 I’m currently developing spotify-clone
+- 🌱 I’m currently developing <a href=""https://github.com/Lordpluha/spotify-clone">spotify-clone</a>
   
 
 <br/>  

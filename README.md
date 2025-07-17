@@ -1,7 +1,7 @@
 # <h1 align="center">I'm Vladyslav, a front-end developer 👨‍💻 learning IT since 2017 🚀</h1>  
   
 
-- 🔭 I’m currently working in Aventus Group 
+- 🔭 I’m currently working in GG Chest
   
 
 - 🌱 I’m currently improving my Next, Nest, learning React Native

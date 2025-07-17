@@ -4,7 +4,7 @@
 - 🔭 I’m currently working in GG Chest
   
 
-- 🌱 I’m currently improving my Next, Nest, learning React Native
+- 🌱 I’m currently developing spotify-clone
   
 
 <br/>  

@@ -1,7 +1,7 @@
 # <h1 align="center">I'm Vladyslav, a front-end developer 👨‍💻 learning IT since 2017 🚀</h1>  
   
 
-- 🔭 I’m currently working in GG Chest
+- 🔭 I’m currently working in <a href="https://ggchest.com">GG Chest</a>
   
 
 - 🌱 I’m currently developing <a href="https://github.com/Lordpluha/spotify-clone">spotify-clone</a>

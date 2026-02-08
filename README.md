@@ -123,11 +123,4 @@
 </div>  
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=lordpluha&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
-<div style="display: flex; flex-direction: row; justify-content: space-around; flex-wrap: wrap; align-items: center" align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lordpluha&theme=transparent&hide_border=true&currStreakNum=FF8C00&fire=FF8C00&ring=FF8C00&currStreakLabel=FF8C00" alt="lordpluha" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lordpluha&hide_border=true&layout=compact" />
-</div>
-
-## What i`m listening?
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=54kqtrcjhg6xg2bb5q5xy720l&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true" /></div>
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=lordpluha&theme=javascript&hide_border=true&short_numbers=true" alt="Stats"/></div>

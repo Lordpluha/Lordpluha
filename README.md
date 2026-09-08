@@ -1,4 +1,4 @@
-# <h1 align="center">I'm Vladyslav, a front-end developer 👨‍💻 learning IT since 2017 🚀</h1>  
+# <h1 align="center">I'm Vladyslav, a front-end developer since 2017 🚀</h1>  
 
 - 🌱 I’m currently developing <a href="https://github.com/Lordpluha/bitrate">Bitrate</a>
   
